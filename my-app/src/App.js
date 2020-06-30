@@ -3,7 +3,6 @@ import Navbar from './components/layout/Navbar.js';
 import './App.css';
 import Welcome from './components/layout/Welcome.js';
 import Search from './components/layout/Search.js';
-import SearchResult from './components/layout/SearchResult.js';
 import axios from 'axios';
 
 class App extends Component {
@@ -26,7 +25,7 @@ class App extends Component {
         <Navbar />
         <Welcome />
         <Search searchGoogle={this.searchGoogle} />
-        <SearchResult />
+        
       </div>
     );
   }
