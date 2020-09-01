@@ -6,6 +6,6 @@ create-react-app my-web
 
 rm -r ./my-web/src
 cp -R ./src ./my-web
-cd myweb
+cd my-web
 npm install --save react-router-dom
 npm install axios
