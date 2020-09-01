@@ -12,4 +12,5 @@ Basic idea: we can set up a database for most veggies and meats. Veggies and mea
 ## Some restrict: 
 --the whole prive can't exceed total budget. 
 --the foods shouldn't be together can not form a conbination 
---should be healthy, which means vitamin or protein should be fulfilled (nobody want to die) 4)no diet
+--should be healthy, which means vitamin or protein should be fulfilled (nobody want to die) 
+--no diet
