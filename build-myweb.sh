@@ -9,3 +9,4 @@ cp -R ./src ./my-web
 cd my-web
 npm install --save react-router-dom
 npm install axios
+npm install react-sticky-footer --save
