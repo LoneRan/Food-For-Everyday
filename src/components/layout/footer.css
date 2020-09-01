@@ -1,0 +1,36 @@
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.content-wrap {
+  flex: 1;
+}
+
+.bottombar,
+.push {
+  background-color: var(--primary-color);
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+.row:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.col {
+  float: left;
+  width: 33.33%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+.col-sm {
+  text-align: center;
+}
+.list-unstyled h4 {
+  text-decoration: yellowgreen;
+}
