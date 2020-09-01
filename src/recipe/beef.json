@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Guinness® Corned Beef",
+    "id": 1,
+    "url": "https://www.allrecipes.com/video/9071/guinness-corned-beef/?internalSource=hub%20recipe&referringId=200&referringContentType=Recipe%20Hub",
+    "img_url": "https://images.media-allrecipes.com/userphotos/300x300/3428896.jpg"
+  },
+
+  {
+    "name": "Pepperoncini Beef",
+    "id": 2,
+    "url": "https://www.allrecipes.com/recipe/34929/pepperoncini-beef/?internalSource=hub%20recipe&referringId=200&referringContentType=Recipe%20Hub",
+    "img_url": "https://images.media-allrecipes.com/userphotos/300x300/529047.jpg"
+  },
+
+  {
+    "name": "Tater Tot Bake",
+    "id": 3,
+    "url": "https://www.allrecipes.com/recipe/16884/tater-tot-bake/?internalSource=hub%20recipe&referringId=200&referringContentType=Recipe%20Hub",
+    "img_url": "https://images.media-allrecipes.com/userphotos/300x300/2612247.jpg"
+  },
+
+  {
+    "name": "Cheeseburger Meatloaf",
+    "id": 4,
+    "url": "https://www.allrecipes.com/recipe/16189/cheeseburger-meatloaf/?internalSource=hub%20recipe&referringId=200&referringContentType=Recipe%20Hub",
+    "img_url": "https://images.media-allrecipes.com/userphotos/300x300/233383.jpg"
+  },
+
+  {
+    "name": "London Broil II",
+    "id": 5,
+    "url": "https://www.allrecipes.com/recipe/14562/london-broil-ii/?internalSource=hub%20recipe&referringId=200&referringContentType=Recipe%20Hub",
+    "img_url": "https://images.media-allrecipes.com/userphotos/300x300/591984.jpg"
+  }
+]
