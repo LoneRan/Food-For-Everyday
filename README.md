@@ -10,4 +10,6 @@ I have only **100$/200$/300$** or more a month. How can I survive? No. Not just 
 Basic idea: we can set up a database for most veggies and meats. Veggies and meats can be grouped together to be a dishes but some veggies and meats together can't be a dish. Clients can select what they like to eat. We can search the lowest price of all foods from Amazon fresh or whole foods or other web and make a combination of them based on their relationship to each other.
 
 ## Some restrict: 
-1)the whole prive can't exceed total budget. 2)the foods shouldn't be together can not form a conbination 3)should be healthy, which means vitamin or protein should be fulfilled (nobody want to die) 4)no diet
+--the whole prive can't exceed total budget. 
+--the foods shouldn't be together can not form a conbination 
+--should be healthy, which means vitamin or protein should be fulfilled (nobody want to die) 4)no diet
