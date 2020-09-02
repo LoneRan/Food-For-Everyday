@@ -10,3 +10,5 @@ cd my-web
 npm install --save react-router-dom
 npm install axios
 npm install react-sticky-footer --save
+sudo npm install
+sudo npm run build
